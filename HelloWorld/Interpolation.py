@@ -1,0 +1,6 @@
+first_name = input("What is your first name?: ")
+last_name = input("what is your last name?: ")
+age = int(input("what is your age?: "))
+mothers_age = int(input("what is your mothers age?: "))
+calculation = (mothers_age - age)
+print(f"Hi {first_name} {last_name}. The difference between your and your mothers age is {calculation} years")
