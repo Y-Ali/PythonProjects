@@ -12,7 +12,7 @@ for i in range (num,num2):
     else:
         #i % 5 != 0 and i % 3 != 0:
         output = output + str(i)    #if not then output i (a number in the range)
-    print(output) 
+    print(output)
 
 #for num in range(100):
 #    print(num)
